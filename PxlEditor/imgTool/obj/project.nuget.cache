@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3TF8KAghM5JxGmHSLgb9I/qfykYec6YKPQyCn6aTXaMJt64UoNloVlGbRyScuGx1JG+xI3ENN68uaPWahPUWmg==",
+  "success": true,
+  "projectFilePath": "D:\\project\\FTEAM\\pxlEditor\\PxlEditor\\imgTool\\imgTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amir Hossin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
